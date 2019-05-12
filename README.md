@@ -1,4 +1,5 @@
 # IBM-Attrition-rate-analysis
+# A kaggle competition and the data was from kaggle
 
 
 In this project, we construct correlations among factors , analyze important features, and 
